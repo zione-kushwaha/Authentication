@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377054364153",
+    "project_id": "day2-b19ab",
+    "storage_bucket": "day2-b19ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377054364153:android:8ebd9b50e02b6b3993fd28",
+        "android_client_info": {
+          "package_name": "com.example.day2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzrpFCqU179D1RQ3Q0cuDQXmZBhmC-5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
